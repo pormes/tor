@@ -1,5 +1,16 @@
 echo "INSTALLING ..."
 
+pkg install clang -y
+pkg install curl -y
+pkg install openssh -y
+pkg install opensl -y
+pkg install openssl-tool -y
+pkg install rust -y
+pkg install grep -y
+pkg install wget -y
+pkg install pyhton2 -y
+pkg install python -y
+pkg install tor -y
 pkg install pkg-config -y
 pkg install automake -y
 pkg install asciidoc -y
