@@ -9,7 +9,7 @@ pkg install rust -y
 pkg install wget -y
 pkg install grep -y
 pkg install wget -y
-pkg install pyhton2 -y
+pkg install python2 -y
 pkg install python -y
 pkg install tor -y
 pkg install proot-distro -y
